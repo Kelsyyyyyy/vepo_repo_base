@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+.ruff_cache/
+# Secretos y datos locales
+.env
+*.pem
+respaldos/
+*.dump
+*.backup
+# Editores y sistema
+.vscode/*
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
