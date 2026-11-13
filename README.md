@@ -18,6 +18,7 @@ pip install -e .
 copy .env.example .env      # edita usuario y contraseña
 pre-commit install
 ```
+
 Base de datos: crear la base `vepo` y ejecutar en orden `db/01_ddl.sql`,
 `db/02_dml.sql`, `db/03_consultas.sql` y `db/04_seguridad.sql`.
 
