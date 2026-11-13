@@ -35,3 +35,6 @@ ruff check . ; ruff format --check .
 ## Equipo y reglas
 Equipo VEPO · Docente: Raúl Iván Herrera González.
 Antes de colaborar lee [CONTRIBUTING.md](CONTRIBUTING.md).
+## Responsable y fecha
+Responsable del repositorio: Kelsy Diez.
+Última actualización: 12 de noviembre de 2026.
